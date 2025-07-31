@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![logo](https://github.com/SHIBAMMOHANTY/SHIBAMMOHANTY/blob/8919b4753f9c6b39552f2ce14363b0fb6dde681e/head.gif)
+![logo](./head.gif)
 <h1 align="center">Hi 👋, I'm Shibam Mohanty</h1>
 <h3 align="center">A Passionate Full Stack Web And Blockchain Developer From India</h3>
 
