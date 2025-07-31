@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Shibam Mohanty</h1>
 <h3 align="center">A Passionate Full Stack Web And Blockchain Developer From India</h3>
 
+<div class="responsive-profile">
 <img align="right" alt="coding" width="400" src="./coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibammohanty&label=Profile%20views&color=0e75b6&style=flat" alt="shibammohanty" /> </p>
@@ -61,3 +62,28 @@ Here are some ideas to get you started:
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shibammohanty&show_icons=true&locale=en&layout=compact" alt="shibammohanty" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shibammohanty&show_icons=true&locale=en" alt="shibammohanty" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shibammohanty&" alt="shibammohanty" /></p>
+</div>
+
+<style>
+.responsive-profile {
+  max-width: 100%;
+  box-sizing: border-box;
+  padding: 0 1rem;
+}
+.responsive-profile img[align="right"] {
+  float: right;
+  max-width: 100%;
+  height: auto;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+}
+@media (max-width: 768px) {
+  .responsive-profile img[align="right"] {
+    float: none;
+    display: block;
+    margin: 0 auto 1rem auto;
+    width: 100%;
+    max-width: 300px;
+  }
+}
+</style>
